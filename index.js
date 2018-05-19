@@ -59,5 +59,4 @@ obj.emit('test')
 /*在wepy中利用该模式定制了一个组件之间通信的总线
 * wepy.$bus = new Observer
 * 然后就可以在wepy.$bus上订阅和发布消息了
-* vue中也有类似的应用
 * */
